@@ -1,0 +1,13 @@
+* {
+    text-decoration: none;
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.parent {
+    background-image: url(flat-lay-notebook-with-list-desk_23-2148938724.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
